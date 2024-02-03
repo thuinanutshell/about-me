@@ -17,6 +17,6 @@ I grew up in the countryside of Central Highlands where I developed my strong pa
 ## ⭐ Languages & Framework
 Python, R, Javascript, HTML/CSS, React. 
 
-## 👩‍💻 Writing: 
+## 👩‍💻 Writing
 I document my learning journey here: https://thuinanutshell.substack.com/
 
